@@ -1,9 +1,9 @@
-https://e7.pngegg.com/pngimages/824/143/png-clipart-python-programming-language-computer-programming-others-miscellaneous-text.png
+
+👋 Hi, I’m Kavin 👨‍💻 From India
 
 
-
-👋 Hi, I’m Kavin 👨‍💻
-👀 I’m interested in technology, programming, video making with, gaming, and building cool projects like a Farmer's Dashboard, Instagram clone, and more.
+👀 I’m interested in technology, programming, video making with, gaming, and building cool projects 
+like a Farmer's Dashboard, Instagram clone, and more.
 
 
 🌱 I’m currently learning Django, Git & GitHub, Raspberry Pi, and python
