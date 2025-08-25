@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Kavin  
 
-- 🎓 Computer Science student
+- 🎓 Computer Science student  
 - 📂 Sharing my projects & experiments here  
 - 🌱 Always curious to learn and build new things  
 
-✨ *Let’s connect through code and ideas!* 
-- Failure is an option here. If things are not failing, you are not innovating enough
-                                                 - Elon Musk 
+> *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
+> — **Elon Musk**
+
 
 
 
