@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Kavin  
 
-- 🎓 Computer Science student (2nd year, graduating 2026)  
-- 💻 Learning Full Stack Development, Django & AI  
-- 🚀 Exploring Linux, Raspberry Pi, and Deep Learning projects  
+- 🎓 Computer Science student
 - 📂 Sharing my projects & experiments here  
 - 🌱 Always curious to learn and build new things  
 
-✨ *Let’s connect through code and ideas!*  
+✨ *Let’s connect through code and ideas!* 
+- Failure is an option here. If things are not failing, you are not innovating enough
+                                                 - Elon Musk 
 
 
 
