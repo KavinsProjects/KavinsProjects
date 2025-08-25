@@ -1,5 +1,14 @@
-# 💫 About Me:
-👀 I’m interested in technology, programming, video making with, gaming, and building cool projects like a Farmer's Dashboard, Instagram clone, and more. <br>🌱 I’m currently learning Django, Git & GitHub, Raspberry Pi, and python 💞️ I’m looking to collaborate on tech projects, , Linux-based systems, and . <br>📫 How to reach me: DM me on Instagram or email me (let me know if you'd like to include contact details). <br>😄 Pronouns: He/Him ⚡ Fun fact: I’m also a gamer who loves NFS, COD, and and I am interested building miniature toys and etc....
+# Hi there 👋 I'm Kavin  
+
+- 🎓 Computer Science student (2nd year, graduating 2026)  
+- 💻 Learning Full Stack Development, Django & AI  
+- 🚀 Exploring Linux, Raspberry Pi, and Deep Learning projects  
+- 📂 Sharing my projects & experiments here  
+- 🌱 Always curious to learn and build new things  
+
+✨ *Let’s connect through code and ideas!*  
+
+
 
 
 ## 🌐 Socials:
