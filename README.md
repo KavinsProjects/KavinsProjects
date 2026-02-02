@@ -3,7 +3,7 @@
 - 🎓 Computer Science student  
 - 📂 Sharing my projects & experiments here  
 - 🌱 Always curious to learn and build new things  
-- 🏎️ i love watching f1
+- 🏎️ Nothing thrills me more than the roar of F1 engines
   
 
 > *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
