@@ -5,9 +5,11 @@
 - 🌱 Always curious to learn and build new things  
 - 🏎️ Nothing thrills me more than the roar of F1 engines
   
-
 > *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
 > — **Elon Musk**
+
+
+
 
 [![gif](https://media.giphy.com/media/gLLGj2bYYm2mm6nwVT/giphy.gif)
 
