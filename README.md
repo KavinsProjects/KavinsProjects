@@ -9,8 +9,7 @@
 > *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
 > — **Elon Musk**
 
-[!(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNpbWIxYWRxeDFibzY1M3g3bXMzbXVjdTF4NzVyeWw3MTlidHdlcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/J54QishM1KZuBsYx4v/giphy.gif)]
-https://media.giphy.com/media/gLLGj2bYYm2mm6nwVT/giphy.gif
+[![gif](https://media.giphy.com/media/gLLGj2bYYm2mm6nwVT/giphy.gif)
 
 
 
