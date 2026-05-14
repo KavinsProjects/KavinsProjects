@@ -12,8 +12,6 @@
 
 
 
-![tenor](https://github.com/user-attachments/assets/e0d2dc9c-e066-4003-819c-423c6440fac0)
-
 
 
 
