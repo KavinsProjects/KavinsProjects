@@ -8,7 +8,7 @@
 - 🏎️ Nothing thrills me more than the roar of F1 engines
   
 > *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
-> — **Elon Musk**
+> - **Elon Musk**
 
 
 
