@@ -7,10 +7,15 @@
 - 🌱 Always curious to learn and build new things  
 - 🏎️ Nothing thrills me more than the roar of F1 engines
   
- நெருநல் உளனொருவன் இன்றில்லை என்பர்
- பெருமை உடைத்திவ் வுலகு.
- — குறள் 336
-  
+ > **நெருநல் உளனொருவன் இன்றில்லை என்பர்**
+>
+> **பெருமை உடைத்திவ் வுலகு.**
+>
+> — *திருக்குறள் 336*
+>
+> *"One who existed yesterday may not exist today; such is the nature of this world."*
+>
+> 
 > *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
 > — **Elon Musk**
 
