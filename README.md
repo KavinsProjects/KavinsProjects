@@ -1,26 +1,67 @@
-# Hi there I'm Kavin  
+const profile = {
+  name: "Kavin",
+  title: "Man on many missions",
 
-# Man on many missions
+  about: {
+    education: "Computer Science student",
+    description: "Sharing my projects & experiments here",
+    learning: "Always curious to learn and build new things",
+    hobby: "Nothing thrills me more than the roar of F1 engines",
+  },
 
-- 🎓 Computer Science student  
-- 📂 Sharing my projects & experiments here  
-- 🌱 Always curious to learn and build new things  
-- 🏎️ Nothing thrills me more than the roar of F1 engines
-> 
-> *“Failure is an option here. If things are not failing, you are not innovating enough.”*  
-> — **Elon Musk**
+  quote: {
+    text: "Failure is an option here. If things are not failing, you are not innovating enough.",
+    author: "Elon Musk",
+  },
 
+  socials: [
+    {
+      name: "Instagram",
+      url: "https://www.instagram.com/heyitskavinn/",
+      color: "#E4405F",
+      icon: "Instagram",
+    },
+    {
+      name: "LinkedIn",
+      url: "https://www.linkedin.com/in/kavin-k-4bab7a277/",
+      color: "#0077B5",
+      icon: "LinkedIn",
+    },
+    {
+      name: "Medium",
+      url: "https://medium.com/@kavinkanagaraj16",
+      color: "#12100E",
+      icon: "Medium",
+    },
+    {
+      name: "Pinterest",
+      url: "https://in.pinterest.com/kavinkanagaraj16/",
+      color: "#E60023",
+      icon: "Pinterest",
+    },
+    {
+      name: "X",
+      url: "https://x.com/kavinGeeks",
+      color: "#000000",
+      icon: "X",
+    },
+    {
+      name: "Email",
+      url: "mailto:kavindevx@gmail.com",
+      color: "#D14836",
+      icon: "Gmail",
+    },
+    {
+      name: "Dev.to",
+      url: "https://dev.to/kavindotdev",
+      color: "#0A0A0A",
+      icon: "Dev.to",
+    },
+  ],
 
+  stats: {
+    visitors: "https://visitcount.itsvg.in/api?id=KavinsProjects&icon=0&color=0",
+  },
+};
 
-
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heyitskavinn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//www.linkedin.com/in/kavin-k-4bab7a277/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavinkanagaraj16) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/kavinkanagaraj16/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kavinGeeks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavindevx@gmail.com) [![dev.to](https://dev.to/kavindotdev)
-
----
-[![](https://visitcount.itsvg.in/api?id=KavinsProjects&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+export default profile;
