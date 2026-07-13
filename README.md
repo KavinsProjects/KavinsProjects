@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Kavin  
+# Hi there I'm Kavin  
 
-# Man on many missions✌️
+# Man on many missions
 
 - 🎓 Computer Science student  
 - 📂 Sharing my projects & experiments here  
