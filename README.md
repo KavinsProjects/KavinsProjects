@@ -3,7 +3,7 @@ import profile from "./data/profile";
 function App() {
   return (
     <div>
-      <h1>Hi there I'm {profile.name}</h1>
+      <h1>Hi there I'm {kavinn}</h1>
       <h2>{profile.title}</h2>
 
       <ul>
