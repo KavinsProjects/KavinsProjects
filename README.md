@@ -15,8 +15,6 @@
 ---
 
 ## 🌐 Connect with Me
-
-* 📷 **Instagram:** https://www.instagram.com/heyitskavinn/
 * 💼 **LinkedIn:** https://www.linkedin.com/in/kavin-k-4bab7a277/
 * 🐦 **X (Twitter):** https://x.com/kavinGeeks
 * 💙 **Dev.to:** https://dev.to/kavindotdev
