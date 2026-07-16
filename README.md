@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ Fun Zone
+## .
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvdGFvdzRraHN5ZWd2NTcwdTE2dzFtem82aTFuNm44ZDkzNDkwNyZlcD12MV9naWZfYnlfaWQmY3Q9Zw/vijrOPnOo9RVC/giphy.gif" alt="Formula 1 GIF" width="500"/>
