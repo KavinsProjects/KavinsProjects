@@ -28,7 +28,4 @@ I'm a **Computer Science student** passionate about building projects, exploring
 * 💙 **Dev.to:** https://dev.to/kavindotdev
 
 ---
-
-## 📈 Profile Visitors
-
-![Visitors](https://visitcount.itsvg.in/api?id=KavinsProjects\&icon=0\&color=0)
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvdGFvdzRraHN5ZWd2NTcwdTE2dzFtem82aTFuNm44ZDkzNDkwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vijrOPnOo9RVC/giphy.gif
