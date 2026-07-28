@@ -13,9 +13,6 @@
 > **— Elon Musk**
 
 ---
-<img width="200" height="200" alt="pirelli-motorsport-car-Formula1-SlickTyres-red-2026-removebg-preview" src="https://github.com/user-attachments/assets/be9ebab7-61f7-43d0-8f01-3f4c4acb4e4a" />
-
-
 
 ## 🌐 Connect with Me
 * 💼 **LinkedIn:** https://www.linkedin.com/in/kavin-k-4bab7a277/
