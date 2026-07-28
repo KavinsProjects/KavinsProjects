@@ -13,9 +13,6 @@
 > **— Elon Musk**
 
 ---
-## Current Compound
-<img width="499" height="500" alt="Pirelli-Soft-Tyre-3-removebg-preview" src="https://github.com/user-attachments/assets/2e22ecab-74be-4604-9176-62f5bd052883" /> - 
-
 
 ## 🌐 Connect with Me
 * 💼 **LinkedIn:** https://www.linkedin.com/in/kavin-k-4bab7a277/
